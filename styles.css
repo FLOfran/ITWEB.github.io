@@ -66,6 +66,9 @@ a{
    
     /* left:20%; */
 }
+.animate__fadeInUpBig{
+    animation-direction: 3s;
+}
 h1{
     font-size: 70px;
     color:#fff;
