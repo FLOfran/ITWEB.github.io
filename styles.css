@@ -18,11 +18,10 @@ line-height: 26px;
 }
 
 ul{
+    width:300px;
     display: flex;
-    margin-top: auto;
-    margin-bottom: auto;
-  margin-left: auto;
-  
+    margin:auto auto auto auto;
+
     
 
 
